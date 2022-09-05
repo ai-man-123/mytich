@@ -10,7 +10,7 @@
   "env": {
     "TOKEN": {
       "description": "Bot token",
-      "value": "token"
+      "value": "5291640694:AAFtN42OXlDrk73RgeKlJmigcD3P-KZuBZY"
     },
     "APP_ID": {
       "description": "APP ID",
@@ -21,8 +21,8 @@
       "value": "12345abc"
     },
     "OWNER": {
-      "description": "Your telegram username",
-      "value": "username",
+      "description": "@aiman1_23",
+      "value": "@aiman1_23",
       "required": false
     }
   },
